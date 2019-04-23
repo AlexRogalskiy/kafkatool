@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: kafkatool
+Implementation-Version: 1.0.0-RELEASE
+Implementation-Vendor: SensibleMetrics, Inc.
+Implementation-Vendor-Id: com.kafkatool.external
+Archiver-Version: Plexus Archiver
+Application-Version: 1.0.0-RElEASE
+Built-By: SensibleMetrics, Inc.
+Build-Jdk: 1.8
+Automatic-Module-Name: ${project.groupId}.${project.artifactId}
+
