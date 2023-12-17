@@ -397,7 +397,7 @@
             <id>maven</id>
             <name>Maven Repository Switchboard</name>
             <layout>default</layout>
-            <url>http://repo1.maven.org/maven2</url>
+            <url>https://repo1.maven.org/maven2</url>
             <snapshots>
                 <enabled>false</enabled>
             </snapshots>
@@ -408,7 +408,7 @@
         </repository>
         <repository>
             <id>central-maven</id>
-            <url>http://central.maven.org/maven2/</url>
+            <url>https://central.maven.org/maven2/</url>
             <snapshots>
                 <enabled>false</enabled>
             </snapshots>
@@ -419,7 +419,7 @@
         </repository>
         <repository>
             <id>jboss-maven</id>
-            <url>http://repository.jboss.com/maven2/</url>
+            <url>https://repository.jboss.com/maven2/</url>
             <snapshots>
                 <enabled>false</enabled>
             </snapshots>
@@ -453,7 +453,7 @@
         <repository>
             <id>Sonatype-public</id>
             <name>Sonatype repository</name>
-            <url>http://oss.sonatype.org/content/groups/public/</url>
+            <url>https://oss.sonatype.org/content/groups/public/</url>
             <snapshots>
                 <enabled>false</enabled>
             </snapshots>
@@ -705,7 +705,7 @@
         <pluginRepository>
             <id>central</id>
             <name>Maven Plugin Repository</name>
-            <url>http://repo1.maven.org/maven2</url>
+            <url>https://repo1.maven.org/maven2</url>
             <layout>default</layout>
             <snapshots>
                 <enabled>false</enabled>
